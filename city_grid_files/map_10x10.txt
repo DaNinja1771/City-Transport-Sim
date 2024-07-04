@@ -1,0 +1,11 @@
+R P F P R R R R P P
+R P P P F P R F P P
+R R R R R R R P P P
+R P R P F P R P R R
+P M R M M M R R R R
+P M R M M M R P R R
+P M R M M M R F R R
+P P R P P P R P R P
+P P R P P P R P P P
+R R R R R R R R R R
+
